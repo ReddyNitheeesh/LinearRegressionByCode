@@ -24,11 +24,11 @@ num_iterations = 1000
 Using these parameters a gradient descent search is executed on a sample data set of 100 ponts. Here is a visualization of the search running for 200 iterations using an initial guess of m = 0, b = 0, and a learning rate of 0.00001
 
 Execution
-To run the example, simply run the gradient_descent_example.py file using Python
+To run the example, simply run the linearRegression.py file using Python
 
 python linearRegression.py
 The output will look like this
 
 Starting gradient descent at b = 0, m = 0, error = 5565.10783448
 Running...
-After 1000 iterations b = 0.0889365199374, m = 1.47774408519, error = 112.614810116
+After 1000 iterations b = 0.0889365199374, m = 1.47774408519, error = 111.614810116
