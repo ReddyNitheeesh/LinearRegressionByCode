@@ -29,6 +29,5 @@ To run the example, simply run the linearRegression.py file using Python
 python linearRegression.py
 The output will look like this
 
-Starting gradient descent at b = 0, m = 0, error = 5565.10783448
-Running...
-After 1000 iterations b = 0.0889365199374, m = 1.47774408519, error = 111.614810116
+inital hyper parameters b=0,m=1 error=692.2825498224661
+final hyper parameters b=-0.10252297775897005,m=1.4836433839482832 error=111.15976495628857
